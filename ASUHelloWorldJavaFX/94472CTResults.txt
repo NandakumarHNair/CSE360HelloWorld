@@ -1,0 +1,8 @@
+Patient ID: 94472
+The total Agatston CAC score: 1
+Vessel level Agatston CAC score
+LM: 11
+LAD: 1
+LCX: 11
+RCA: 1
+PDA: 0

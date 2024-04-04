@@ -1,0 +1,8 @@
+Patient ID: 21000
+The total Agatston CAC score: wdwd
+Vessel level Agatston CAC score
+LM: d
+LAD: e
+LCX: e
+RCA: e
+PDA: e

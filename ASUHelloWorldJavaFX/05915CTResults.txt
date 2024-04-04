@@ -1,0 +1,8 @@
+Patient ID: 05915
+The total Agatston CAC score: wq
+Vessel level Agatston CAC score
+LM: e
+LAD: ee
+LCX: e
+RCA: e
+PDA: e

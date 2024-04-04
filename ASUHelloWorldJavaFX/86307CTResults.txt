@@ -1,0 +1,8 @@
+Patient ID: 86307
+The total Agatston CAC score: swa
+Vessel level Agatston CAC score
+LM: axsd
+LAD: as
+LCX: asd
+RCA: ad
+PDA: a
